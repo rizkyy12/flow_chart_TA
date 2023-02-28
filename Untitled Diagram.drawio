@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T08:16:38.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1660.14" version="20.8.14" etag="w2V86jWY6LgxMN2GsQX4" type="github"><diagram name="Page-1" id="ekoGOsIkA2_pPzhhPlTa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-28T08:20:41.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1660.14" etag="V-LEtxfgLzguFsVotUsp" version="20.8.14" type="github">
+  <diagram name="Page-1" id="ekoGOsIkA2_pPzhhPlTa">
+    <mxGraphModel dx="1415" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bNu7VeHpmDg-33qCOryd-13" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNu7VeHpmDg-33qCOryd-1" target="bNu7VeHpmDg-33qCOryd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-21" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNu7VeHpmDg-33qCOryd-1" target="bNu7VeHpmDg-33qCOryd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-1" value="Pengertian Kualitas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-17" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNu7VeHpmDg-33qCOryd-2" target="bNu7VeHpmDg-33qCOryd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-2" value="Pandangan Konsumen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-16" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNu7VeHpmDg-33qCOryd-3" target="bNu7VeHpmDg-33qCOryd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-3" value="Pandangan Produsen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-19" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNu7VeHpmDg-33qCOryd-4" target="bNu7VeHpmDg-33qCOryd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-4" value="Kesesuaian Kualitas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-18" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNu7VeHpmDg-33qCOryd-5" target="bNu7VeHpmDg-33qCOryd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-5" value="Kualitas Rancangan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-6" value="Pemasaran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="430" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-20" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bNu7VeHpmDg-33qCOryd-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-7" value="Kesesuaian untuk digunakan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="510" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="bNu7VeHpmDg-33qCOryd-9" target="bNu7VeHpmDg-33qCOryd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNu7VeHpmDg-33qCOryd-9" value="Produksi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
