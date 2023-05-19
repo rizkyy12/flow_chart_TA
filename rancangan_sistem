@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T00:13:05.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="kgRVJFfP38v7gqVr-9k7" version="21.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-18T20:21:26.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="MkSMhGIdU8_CbZ2pt7Pu" version="21.3.2" type="github" pages="6">
   <diagram id="JfcNjIZIXAF4k1RZF2Hn" name="Page-1">
-    <mxGraphModel dx="1416" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="j30zseSH8w5LR67senZ8-38" value="Raspberry Pi 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="205" y="418.62" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JqUoIjEFEL1QBa1EA-gC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j30zseSH8w5LR67senZ8-39" target="JqUoIjEFEL1QBa1EA-gC-1">
+        <mxCell id="JqUoIjEFEL1QBa1EA-gC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j30zseSH8w5LR67senZ8-39" target="JqUoIjEFEL1QBa1EA-gC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="442" y="210" />
@@ -94,7 +94,7 @@
         <mxCell id="HBKfo7bpDM8yFXtLISBu-18" value="Motor DC Power Window" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="581.1" y="130" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JqUoIjEFEL1QBa1EA-gC-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sc02.alicdn.com/kf/HTB1feiVlL6TBKNjSZJiq6zKVFXaD/224651292/HTB1feiVlL6TBKNjSZJiq6zKVFXaD.jpg;" vertex="1" parent="1">
+        <mxCell id="JqUoIjEFEL1QBa1EA-gC-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sc02.alicdn.com/kf/HTB1feiVlL6TBKNjSZJiq6zKVFXaD/224651292/HTB1feiVlL6TBKNjSZJiq6zKVFXaD.jpg;" parent="1" vertex="1">
           <mxGeometry x="600.22" y="160" width="121.75" height="107" as="geometry" />
         </mxCell>
       </root>
@@ -671,7 +671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="INJxJ0nrEMpmVoyfO_8Z" name="Page-5">
-    <mxGraphModel dx="1416" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -827,6 +827,56 @@
         </mxCell>
         <mxCell id="DIpP-L1iXxADXPpNIXVZ-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ring Thrower&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="362.63" y="300" width="88.25" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pINwvB4avj8CwuJ-kGRb" name="Page-6">
+    <mxGraphModel dx="1422" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4g448EATPesWPftg5Zvk-3" value="Kontrol Sudut Elevasi Robot Pelontar Softsaucer dengan Metode PID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-1" value="Azhar, dkk. (2017)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-4" value="Skema Sistem Kendali Robot Pelempar Shuttlecock Berbasis PID-CSA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-5" value="Ferdiansyah, dkk. (2018)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-13" value="Cuckoo search as a tool for optimal design of PM brushless DC motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-14" value="Cvetkovski, G.V . (2018)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-15" value="Kendali Kecepatan Motor Pompa Air Dc Menggunakan Pid – Csa Berdasarkan Debit Air Berbasis Arduino" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-16" value="Andreas, A. (2020)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-20" value="Strategi Ssistem Kontrol Untuk Ring Thrower Robot Berbasis PID-CSA Pada Robot KRAI 2023" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-21" value="Rizky, A. dkk. (2023)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-29" value="Design of Blessing Ball Throwing Techniques for KRAI 2018 Robot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-30" value="Diantoro, R. (2020)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-31" value="CSA based PID Controller Design Technique for Optimizing Various Integral Errors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="270" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4g448EATPesWPftg5Zvk-32" value="Kaur, A. (2020)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="240" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
