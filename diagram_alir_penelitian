@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T12:46:36.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.0.0" etag="IB6sNUPM3zkf6Sgu305u" version="20.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-25T06:15:34.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="NGe5etKFWw5YnMB3d9OY" version="21.3.2" type="github" pages="4">
   <diagram id="xvkVgAadAQoIkuMOlPmD" name="Page-1">
-    <mxGraphModel dx="1387" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s0Y2eJ249Tq4dcR_zgmc" name="Page-3">
-    <mxGraphModel dx="2487" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2526" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -396,6 +396,66 @@
         </mxCell>
         <mxCell id="MYTquDsXSS9xeH2yZYDd-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.9006836465154535;endAngle=0.1;" parent="1" vertex="1">
           <mxGeometry x="-380" y="510" width="2281.96" height="2300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1mFe_LPYeQGdvWiR44OV" name="Page-4">
+    <mxGraphModel dx="1426" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KMDFVPojOAl7hUW7ottG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KMDFVPojOAl7hUW7ottG-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KMDFVPojOAl7hUW7ottG-4" target="KMDFVPojOAl7hUW7ottG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-4" value="Pembacaan Sensor &lt;br&gt;LiDAR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="401.25" y="250" width="167.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KMDFVPojOAl7hUW7ottG-6" target="KMDFVPojOAl7hUW7ottG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-6" value="Fuzzyfikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KMDFVPojOAl7hUW7ottG-12" target="KMDFVPojOAl7hUW7ottG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-12" value="Rule set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KMDFVPojOAl7hUW7ottG-14" target="KMDFVPojOAl7hUW7ottG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-14" value="Deffuzyfikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KMDFVPojOAl7hUW7ottG-16" target="KMDFVPojOAl7hUW7ottG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KMDFVPojOAl7hUW7ottG-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485" y="600" />
+              <mxPoint x="381" y="600" />
+              <mxPoint x="381" y="230" />
+              <mxPoint x="485" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-16" value="Output kecepatan linear &amp;amp; angular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KMDFVPojOAl7hUW7ottG-19" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="620" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
