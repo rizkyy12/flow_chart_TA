@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T12:40:08.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="FWgd6mNTuQFHUCifL0Rz" version="21.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-18T12:40:33.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="LX7wHPvoWK5-NvykwUEi" version="21.4.0" type="github" pages="7">
   <diagram id="xvkVgAadAQoIkuMOlPmD" name="Page-1">
     <mxGraphModel dx="1426" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s0Y2eJ249Tq4dcR_zgmc" name="Gerak Parabola">
-    <mxGraphModel dx="3001" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3294" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,8 +460,8 @@
             <mxPoint x="1284" y="668" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d-VTjqzu4dSFyPnfC8Hs-60" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.8985309573139301;endAngle=0.1351450632786287;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="894" y="529" width="1270" height="1382.31" as="geometry" />
+        <mxCell id="d-VTjqzu4dSFyPnfC8Hs-60" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.8985309573139301;endAngle=0.137391245162546;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="906" y="529" width="1270" height="1382.31" as="geometry" />
         </mxCell>
         <mxCell id="d-VTjqzu4dSFyPnfC8Hs-59" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;0,65&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1279" y="693" width="60" height="40" as="geometry" />
@@ -470,7 +470,7 @@
           <mxGeometry x="1191" y="632" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d-VTjqzu4dSFyPnfC8Hs-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.16737532973071606;endAngle=0.235275204120762;" vertex="1" parent="1">
-          <mxGeometry x="963" y="583" width="256" height="186.31" as="geometry" />
+          <mxGeometry x="970" y="583" width="256" height="186.31" as="geometry" />
         </mxCell>
         <mxCell id="d-VTjqzu4dSFyPnfC8Hs-63" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
