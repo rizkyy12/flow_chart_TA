@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T05:29:24.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="T0RAdQ2Gf3vGPwdmfLKp" version="21.5.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-22T05:10:13.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="HB1l8bEBS5rZeSd2VC69" version="21.5.0" type="github" pages="7">
   <diagram id="xvkVgAadAQoIkuMOlPmD" name="Page-1">
     <mxGraphModel dx="1426" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s0Y2eJ249Tq4dcR_zgmc" name="Gerak Parabola">
-    <mxGraphModel dx="2526" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3137" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -652,6 +652,27 @@
         </mxCell>
         <mxCell id="aV9sBOq8RRNkm32H_jtc-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Target 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="399" y="470" width="80" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1Lvsn3V_c6Im5lZPbICf-1" value="&lt;span class=&quot;mediumtext&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background: white;&quot; lang=&quot;ES&quot;&gt;Vo_2&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Lvsn3V_c6Im5lZPbICf-2" value="&lt;span class=&quot;mediumtext&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background: white;&quot; lang=&quot;ES&quot;&gt;Vo_1&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="1045" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Lvsn3V_c6Im5lZPbICf-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.287;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.194;exitY=0.103;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d-VTjqzu4dSFyPnfC8Hs-85" target="d-VTjqzu4dSFyPnfC8Hs-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="1110" as="sourcePoint" />
+            <mxPoint x="1214" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Lvsn3V_c6Im5lZPbICf-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="d-VTjqzu4dSFyPnfC8Hs-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1161" y="668" as="sourcePoint" />
+            <mxPoint x="1211" y="618" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
