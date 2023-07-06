@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T22:15:59.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="sKzsiwZq29HIgfN9hL8a" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T01:03:53.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="E9z_FrNGlb_8LokzTJg-" version="21.6.1" type="github">
   <diagram name="Page-1" id="VWntm0FW9ZZrwbIY3iq4">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,6 +71,75 @@
           <mxGeometry x="520" y="405" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzcraJEMKD5GyH7Zmy1W-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-20" target="AzcraJEMKD5GyH7Zmy1W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-26" target="AzcraJEMKD5GyH7Zmy1W-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-26" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Posisi Awal Sudut Lemparan (&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;55°)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-28" target="AzcraJEMKD5GyH7Zmy1W-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-28" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Setpoint Target (1,2)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="725" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-30" target="AzcraJEMKD5GyH7Zmy1W-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-30" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;PID-CSA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-34" target="AzcraJEMKD5GyH7Zmy1W-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-34" target="AzcraJEMKD5GyH7Zmy1W-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="690" />
+              <mxPoint x="770" y="810" />
+              <mxPoint x="545" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-34" target="AzcraJEMKD5GyH7Zmy1W-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-34" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Motor DC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-36" target="AzcraJEMKD5GyH7Zmy1W-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-36" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Ratio Gear&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-37" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Pelontar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-38" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Internal Encoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="793" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-40" target="AzcraJEMKD5GyH7Zmy1W-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-40" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Ring Throwing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="793" y="602" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Pengukuran Jarak Hasil Lemparan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="793" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-43" target="AzcraJEMKD5GyH7Zmy1W-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-43" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="735" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AzcraJEMKD5GyH7Zmy1W-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzcraJEMKD5GyH7Zmy1W-24" target="AzcraJEMKD5GyH7Zmy1W-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
